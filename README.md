@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himadree</h1>
 <h3 align="center">A Full Stack WordPress Developer</h3>
 <br>
-<img align="right" alt="WordPress Developer"  width="400" src="https://himadree.com/github/Programming.png" />
+<img align="right" alt="WordPress Developer"  width="300" src="https://himadree.com/github/Programming.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himadree&label=Profile%20views&color=0e75b6&style=flat" alt="himadree" /> </p>
 
@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **ReactJS, NextJS & Gutenberg Block**
 
-- 👨‍💻 All of my projects are available at [profiles.wordpress.org/himadree12/](https://profiles.wordpress.org/himadree12/)
+- 👨‍💻 All of my projects are available at [wp.org/himadree12](https://profiles.wordpress.org/himadree12/)
 
-- 💬 Ask me about **WordPress, PHP, JS[es6], React**
+- 💬 Ask me about **WordPress, PHP, JS, css, React**
 
 - 📫 How to reach me **himadree12@gmail.com**
 
-- 📄 Know about my experiences [himadree.com/](https://himadree.com/)
+- 📄 Know about my experiences [Himadree](https://himadree.com/)
 
 
 <h3 align="left">Connect with me:</h3>
