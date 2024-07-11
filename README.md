@@ -9,7 +9,7 @@
 
 - 💻 I’m currently working on **[Essential Addons for Elementor](https://wordpress.org/plugins/essential-addons-for-elementor-lite/)**
 
-- 🌱 I’m currently learning **ReactJS, NextJS & Gutenberg Block**
+- 🌱 I’m currently learning **ReactJS, NextJS & TypeScript**
 
 - 👨‍💻 All of my projects are available at [wp.org/himadree12](https://profiles.wordpress.org/himadree12/)
 
