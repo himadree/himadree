@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himadree&label=Profile%20views&color=0e75b6&style=flat" alt="himadree" /> </p>
 
-<p align="left"> <a href="https://twitter.com/himadree_h" target="blank"><img src="https://img.shields.io/twitter/follow/himadree_h?logo=twitter&style=for-the-badge" alt="himadree_h" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/himadree-halder/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-555555?style=flat&logo=linkedin&logoColor=white" alt="himadree-halder" /></a> </p>
+
+<p align="left"> <a href="https://x.com/himadree_h" target="blank"><img src="https://img.shields.io/twitter/follow/himadree_h?logo=x&style=for-the-badge" alt="himadree_h" /></a> </p>
 
 - 💻 I’m currently working on **[Essential Addons for Elementor](https://wordpress.org/plugins/essential-addons-for-elementor-lite/)**
 
