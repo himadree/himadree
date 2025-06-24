@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himadree</h1>
-<h3 align="center">A Full Stack WordPress Developer</h3>
+<h3 align="center">A Passionate WordPress Engineer</h3>
 <br>
 <img align="right" alt="WordPress Developer"  width="300" src="https://himadree.com/github/Programming.png" />
 
